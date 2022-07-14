@@ -1,0 +1,15 @@
+/* index.css */
+
+footer {
+    margin-top: auto;
+}
+
+.HomePageSize {
+    padding: 230px;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
